@@ -75,7 +75,7 @@ $row=$stmt->fetch(PDO::FETCH_ASSOC);
 
 <table class="table">
 <tr>
-<td><iframe src="//www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2FCodingCage&amp;width&amp;height=290&amp;colorscheme=light&amp;show_faces=true&amp;header=true&amp;stream=false&amp;show_border=true&amp;appId=198210627014732" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:290px;" allowTransparency="true"></iframe>
+<td><iframe src="" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:290px;" allowTransparency="true"></iframe>
 <div style="height: 20px;">&nbsp;</div></td>
 
 <td><a class="twitter-follow-button"
@@ -85,7 +85,7 @@ Follow @PradeepKhodke
 </a>
 
 <a class="twitter-follow-button"
-  href="https://twitter.com/CodingCage"
+  href="https://twitter.com/Stanisl55627655"
   data-show-count="true"  data-size="large"  data-lang="en">
 Follow @CodingCage
 </a>
@@ -93,7 +93,7 @@ Follow @CodingCage
 </td>
 
 <td>
-<div class="g-person" data-width="299" data-href="https://plus.google.com/103895933493952839746" data-layout="landscape" data-rel="publisher"></div>
+<div class="g-person" data-width="299" data-href="" data-layout="landscape" data-rel="publisher"></div>
 </tr>
 </table>
 
